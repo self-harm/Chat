@@ -1,5 +1,3 @@
-package com.javarush.task.task30.task3008;
-
 import java.io.*;
 import java.net.Socket;
 import java.net.SocketAddress;
