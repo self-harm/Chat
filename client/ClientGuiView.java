@@ -1,4 +1,4 @@
-package com.javarush.task.task30.task3008.client;
+package client;
 
 import javax.swing.*;
 import java.awt.*;
