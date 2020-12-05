@@ -1,0 +1,11 @@
+Instruction 'How to start the chat':
+1 - run Server:
+    - port:     1234 || any 4 numbers
+2 - run ClientGuiController
+    - address:  localhost || 0.0.0.0 || 127.0.0.1
+    - port:     same
+3 - run BotClient
+    - address:  same
+    - port:     same
+
+I added a Chat Bot which can answer next commands: 'дата', 'день', 'месяц', 'год', 'время', 'час', 'минуты', 'секунды',
