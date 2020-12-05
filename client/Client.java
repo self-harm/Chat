@@ -1,9 +1,9 @@
 package client;
 
-import com.javarush.task.task30.task3008.Connection;
-import com.javarush.task.task30.task3008.ConsoleHelper;
-import com.javarush.task.task30.task3008.Message;
-import com.javarush.task.task30.task3008.MessageType;
+import Connection;
+import ConsoleHelper;
+import Message;
+import MessageType;
 
 import java.io.IOException;
 import java.net.Socket;
